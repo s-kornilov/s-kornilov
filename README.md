@@ -11,6 +11,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/s-kornilov/)](https://github.com/s-kornilov/)
 
 ### Connect with via
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skornilov)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-kornilov)
 
 
